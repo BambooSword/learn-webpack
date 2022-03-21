@@ -1,0 +1,3 @@
+{
+	"presets": ["@babel/preset-react", "@babel/preset-typescript"]// preset 是官方配置好的plugins集合，另外配置了一些options
+}
